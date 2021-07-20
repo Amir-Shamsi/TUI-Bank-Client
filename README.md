@@ -6,7 +6,7 @@ The other advantage is that the program or client is colorful, and the clerk won
 
   
 <p>
-  The client doesn’t care about the way you type it means if you type “exit” or “eXiT” client see them in same way and understand that you want to exit! (not a case sensitivity)
+  The client doesn’t care about the way you type it means if you type “exit” or “eXiT” client see them in same way and understand that you want to exit! (not a case sensitive)
 
   
 ## This client has some main commands, this client can do things as follow
