@@ -14,10 +14,13 @@ The other advantage is that the program or client is colorful, and the clerk won
 * Client shows account logs: the client shows the accounts logs, debits and credit in color, in a console shell and after showing the logs in the shell the turtle shell with launch and shows the logs in a chart which has been coded by turtle library in python and that’s colorful too.
 * Client Opens/Closes/Blocks an account: client can open an account with filing a form and it also can close or block an account by entering an account number. 
 * Opening an account and add it to account owner: the client can also open an account for a person who has an account or some account in the current time which is deferent from opening an account for a new person which hasn’t ever opened an account in bank 
-* Retrieving a blocked or closed account number in a sorted way • Retrieving a person all information and accounts in a sorted way 
+* Retrieving a blocked or closed account number in a sorted way 
+* Retrieving a person all information and accounts in a sorted way 
 * Creating a new clerk account: clerk who logged in at first can also open an account for other employees by giving system a username and password. 
 * Can transfers money (fund transfer): clerk can transfer money by cash or by account to account. 
-* Showing a transferred money logs for every account numbers • Clerk can easily exit by typing exit
+* Showing a transferred money logs for every account numbers 
+* Clerk can easily exit by typing exit
+  
 ### Installation
 1. Packages You Need to Run This
    ```sh
